@@ -1,0 +1,15 @@
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\bin\Debug\net8.0\test_control.exe
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\bin\Debug\net8.0\test_control.deps.json
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\bin\Debug\net8.0\test_control.runtimeconfig.json
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\bin\Debug\net8.0\test_control.dll
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\bin\Debug\net8.0\test_control.pdb
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\test_control.GeneratedMSBuildEditorConfig.editorconfig
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\test_control.AssemblyInfoInputs.cache
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\test_control.AssemblyInfo.cs
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\test_control.csproj.CoreCompileInputs.cache
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\test_control.sourcelink.json
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\test_control.dll
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\refint\test_control.dll
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\test_control.pdb
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\test_control.genruntimeconfig.cache
+C:\User\Stevenson-worspace\c#-development\dotnet\test_control\obj\Debug\net8.0\ref\test_control.dll
